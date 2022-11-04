@@ -3,7 +3,7 @@
 This repository contains a very simple prototype of a "Candy Crush" clone.
 The implementation is written in C++, using SFML as Graphic library.
 
-![](game_screen.png)
+![](https://github.com/Kegbird/block_game/blob/main/game_screen.PNG?raw=true)
 
 # Building instructions
 
