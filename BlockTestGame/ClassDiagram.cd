@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameLogic">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CIQAgSACABQABICAAACVCAIgIASIQgIAIIAApACAIEg=</HashCode>
+      <FileName>headers\GameLogic.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAAgAEAAAAAAAAQAIAgAAAAAAAABAAACBQAAg=</HashCode>
+      <FileName>headers\GameManager.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameOver">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQgAAAAAAAAAQACAARAAAAQACAAgAgYIAEIAAAgAA=</HashCode>
+      <FileName>headers\GameOver.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgBAAAAAAAAQAAAAAACICgQEIIAAAABBAAA=</HashCode>
+      <FileName>headers\Menu.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoundManager">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAIABAAAAAAggBAFAAAAQAAAgABAAAAQ=</HashCode>
+      <FileName>headers\SoundManager.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="BlockType">
+    <Position X="9.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAACAAACAAAAAAAA=</HashCode>
+      <FileName>headers\Constants.hpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GameState">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAACAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>headers\Constants.hpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SoundType">
+    <Position X="9.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAgAAAAAAIAAAABAAEAAAAAAA=</HashCode>
+      <FileName>headers\Constants.hpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

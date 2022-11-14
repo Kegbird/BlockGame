@@ -9,6 +9,7 @@ int main()
 
 	while (game_manager->IsRunning())
 	{
+		game_manager->InputProcessing();
 		game_manager->Update();
 		game_manager->Render();
 	}

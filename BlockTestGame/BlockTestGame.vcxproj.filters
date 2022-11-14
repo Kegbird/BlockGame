@@ -54,4 +54,7 @@
       <Filter>File di intestazione</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
 </Project>

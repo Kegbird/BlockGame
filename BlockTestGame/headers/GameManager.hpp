@@ -12,6 +12,7 @@ class GameManager
 	public:
 		GameManager();
 		virtual ~GameManager();
+		void InputProcessing();
 		void Update();
 		void Render();
 		bool IsRunning();
